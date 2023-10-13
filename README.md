@@ -1,6 +1,6 @@
-# Extension name
+# Fire & Fondness 2
 
-Extension description
+Navigate a maze of dangers to reunite with your love!
 
 ## Build
 
