@@ -7,7 +7,7 @@ type Instance = {
 
 let instance: Instance | null = null;
 
-const title = "Extension Name";
+const title = "Fire & Fondness 2";
 
 const focusInstance = async () => {
   if (instance) {
