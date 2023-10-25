@@ -128,5 +128,10 @@
         document.getElementById("frame").style.right = "105px";
       }
     </script>
+    <script type="module">
+      window.quit = async () => {
+        await ext.runtime.sendMessage("quit");
+      };
+    </script>
   </body>
 </html>
